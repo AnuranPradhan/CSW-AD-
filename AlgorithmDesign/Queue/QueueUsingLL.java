@@ -14,7 +14,6 @@ Node node = new Node();
 Scanner sc =new Scanner(System.in);
 System.out.println("Enter the item you want to insert ");
 node.val=sc.nextInt();
-
 if(front==null){
     front=rear=node;
 }else{

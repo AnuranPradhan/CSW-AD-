@@ -1,4 +1,4 @@
-package AlgorithmDesign;
+package AlgorithmDesign.ArrayRecursive;
 
 public class Nth_Fibbonacci {
 static int Fibo(int n){
